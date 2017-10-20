@@ -1,5 +1,4 @@
 import sys
-import time
 import Ice
 Ice.loadSlice('Armory.ice')
 import Armory
